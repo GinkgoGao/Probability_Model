@@ -1,0 +1,12 @@
+{
+  "options_rnd": 0.20,
+  "event_history": 0.15,
+  "expectation": 0.15,
+  "peer_sector": 0.12,
+  "technical": 0.10,
+  "positioning": 0.08,
+  "options_flow": 0.06,
+  "macro_regime": 0.06,
+  "sentiment": 0.04,
+  "microstructure": 0.04
+}
